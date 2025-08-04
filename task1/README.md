@@ -18,8 +18,8 @@ This project is part of **Task 1** for my internship at **Elevate Labs**. It dem
 
 ##  Project Structure
   task1/
-├── index.html # Main HTML file
-├── style.css # Stylesheet
-├── biryani.jpeg
-|── mandi.jpeg
-└── README.md # Project documentation
+--> index.html # Main HTML file
+--> style.css # Stylesheet
+--> biryani.jpeg
+--> mandi.jpeg
+--> README.md # Project documentation
