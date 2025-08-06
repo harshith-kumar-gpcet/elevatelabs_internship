@@ -5,7 +5,7 @@ A simple, responsive To-Do List web application that allows users to **add**, **
 
 ##  Features
 
-- + Add new tasks
+- '+' Add new tasks
 -  Edit existing tasks
 - x Delete tasks
 - 🖼 Background image support
